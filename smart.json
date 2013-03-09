@@ -3,5 +3,6 @@
   "description": "underscore.inflection repackaged for Meteor",
   "homepage": "https://github.com/pius/meteor-underscore-inflection",
   "author": "Pius Uzamere <pius@alum.mit.edu>",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "git": "https://github.com/pius/meteor-underscore-inflection.git"
 }
